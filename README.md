@@ -1,4 +1,4 @@
-# Projet Go: URL Shorte
+# Projet Go: URL ShorteR
 
 ## Group: Brigade Fantôme
 - [Persi MANKITA](https://www.linkedin.com/in/persimankita/)

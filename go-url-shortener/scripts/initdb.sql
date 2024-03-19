@@ -1,0 +1,1 @@
+-- SQL schema for initializing the URL shortener database
